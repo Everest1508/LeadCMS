@@ -1,0 +1,6 @@
+{
+  "name": "BeForth CRM — Lead & Sales Management",
+  "description": "Multi-channel lead capture, verification checklist, automated qualification, sales team assignment, activity tracking, and visual sales pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
